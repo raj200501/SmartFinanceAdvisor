@@ -1,0 +1,33 @@
+# Go
+*.exe
+*.test
+*.out
+*.log
+
+# Node
+node_modules
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# Docker
+*.swp
+docker-compose.override.yml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Others
+.env
